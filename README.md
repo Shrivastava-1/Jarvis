@@ -1,7 +1,7 @@
 <h1>🧠 Jarvis - Your Voice Assistant</h1>
 <p>Jarvis is a basic voice assistant built using Python. It can recognize your voice commands and perform tasks like searching Wikipedia, opening websites, telling the current time, and more.</p>
 
-<h2>🔧 Features</h2>
+<h2>🔧 Feature's</h2>
 <ul>
   <li>🎤 Voice Recognition using Google Speech Recognition</li>
   <li>🔊 Text-to-Speech via pyttsx3</li>
