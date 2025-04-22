@@ -8,7 +8,6 @@
   <li>🌐 Wikipedia Search and reads out summary</li>
   <li>📺 Open Websites (YouTube, Google, LinkedIn)</li>
   <li>🕐 Tells the Current Time</li>
-  <li>💻 Opens Visual Studio Code</li>
 </ul>
 
 <h2>🛠️ Technologies Used</h2>
