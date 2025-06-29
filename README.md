@@ -57,13 +57,6 @@ cd jarvis-voice-assistant</code></pre>
   <li>Update the path to VS Code according to your system</li>
 </ul>
 
-<h2>💡 Future Enhancements</h2>
-<ul>
-  <li>Add GUI using Tkinter or PyQt</li>
-  <li>Add more functionalities like playing music, sending emails, etc.</li>
-  <li>Add support for Hindi or multilingual commands</li>
-</ul>
-
 <h2>🤝 Contributing</h2>
 <p>Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.</p>
 
