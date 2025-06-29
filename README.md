@@ -57,9 +57,6 @@ cd jarvis-voice-assistant</code></pre>
   <li>Update the path to VS Code according to your system</li>
 </ul>
 
-<h2>📸 Demo (Optional)</h2>
-<p>Add a screen recording or screenshot here showing how Jarvis responds to your commands.</p>
-
 <h2>💡 Future Enhancements</h2>
 <ul>
   <li>Add GUI using Tkinter or PyQt</li>
