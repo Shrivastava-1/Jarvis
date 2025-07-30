@@ -45,7 +45,7 @@ cd jarvis-voice-assistant</code></pre>
   </li>
 </ol>
 
-<h2>📁 File Structure</h2>
+<h2>📁 File Structure's</h2>
 <pre><code>jarvis-voice-assistant/
 ├── jarvis.py        # Main Python script
 └── README.md        # Project documentation</code></pre>
